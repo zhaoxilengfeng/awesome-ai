@@ -6,7 +6,6 @@ TODO
 ## 本地知识库搭建
 TODO
 
-欢迎共享AI相关知识
 ## 全世界最好的大语言模型资源汇总
 fork from: https://github.com/WangRongsheng/awesome-LLM-resourses
 
