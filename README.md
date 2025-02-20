@@ -6,6 +6,9 @@ TODO
 ## 本地知识库搭建
 TODO
 
+## 实战
+[大模型相关技术原理以及实战经验](https://github.com/liguodongiot/llm-action)
+
 ## 全世界最好的大语言模型资源汇总
 fork from: https://github.com/WangRongsheng/awesome-LLM-resourses
 
