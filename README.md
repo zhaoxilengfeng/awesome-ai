@@ -189,7 +189,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 9. [VLMEvalKit](https://github.com/open-compass/VLMEvalKit): Open-source evaluation toolkit of large vision-language models (LVLMs), support ~100 VLMs, 40+ benchmarks.
 10. [AGI-Eval](https://agi-eval.cn/mvp/home)
 11. [EvalScope](https://github.com/modelscope/evalscope): A streamlined and customizable framework for efficient large model evaluation and performance benchmarking.
-
+12. [Future AGI](https://github.com/future-agi/future-agi): Open-source platform for evaluating LLM and agent apps, with 70+ metrics, multimodal and custom evals, LLM-as-judge, and guardrail scanners.
 `LLM API 服务平台`：
 1. [Groq](https://groq.com/)
 2. [硅基流动](https://cloud.siliconflow.cn/models)
